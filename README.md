@@ -22,4 +22,15 @@ A partir da experimentação com as silhuetas, escolhi a que mais me agradou par
 <div align="center">
   <img src="readme-files/4.PNG" height="300">
 </div>  
-  
+<br>
+<br>
+
+Finalizando esses primeiros passos criando personagens em pixel art. Criei um novo documento, porem este em 64x64, assim é possível melhorar ainda mais o nível de detalher (o que esta mais do que óbiovio nesse processo de aumento de "resolução" -hahaha-). A partir do ultimo personagem, reproduzi suas caracteristicas no novo documento, ja praticando os conceitos de curvas, sombras e simetria.
+
+<div align="center">
+  <img src="readme-files/5.PNG" height="300">
+</div>
+<br>
+<br>
+
+
